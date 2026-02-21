@@ -1,73 +1,122 @@
 # ⛏️ HyOres — The Ultimate Ore Expansion for Hytale
 
-[![Report Bug](https://img.shields.io/badge/Report-Bug-red?style=for-the-badge&logo=github)](https://github.com/HadiAwali/hyores-report-issues/issues)
-[![Download on CurseForge](https://img.shields.io/badge/Download-CurseForge-orange?style=for-the-badge)](https://www.curseforge.com/hytale/mods/hyores)
+<p align="center">
+  <a href="https://www.curseforge.com/hytale/mods/hyores">
+    <img src="https://img.shields.io/badge/Download-CurseForge-orange?style=for-the-badge&logo=curseforge&logoColor=white" />
+  </a>
+  <a href="https://github.com/HadiAwali/hyores-report-issues/issues">
+    <img src="https://img.shields.io/badge/Report-Bug-red?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/HadiAwali/hyores-hytale">
+    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.patreon.com/hadi_awali?utm_campaign=creatorshare_creator">
+    <img src="https://img.shields.io/badge/Support-Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
+</p>
 
-A dynamic ore generation mod expanding underground content, terrain variants, and alloy progression for Hytale players.2
+<p align="center">
+Dynamic ore generation • Terrain variants • Alloy progression • JSON-driven ecosystem
+</p>
 
 ---
 
 ## 📌 Overview
 
-HyOres adds to Hytale:
+**HyOres** expands underground gameplay in Hytale with a scalable, configurable ore ecosystem.
 
-- 🌍 Natural world ore generation
-- 🪨 Unique ore variants by terrain
-- 🔩 Alloy crafting system
-- ⚙️ Configurable JSON-based distribution
-- 🧪 Enhanced ore diversity across biomes3
+### What it adds:
+
+- 🌍 Natural biome-based ore spawning  
+- 🪨 Terrain-specific ore variants  
+- 🔩 Progressive alloy crafting system  
+- ⚙️ Deterministic JSON-based generation engine  
+- 🧪 Performance-aware world integration  
+
+Designed for balance, expansion, and long-term scalability.
 
 ---
 
 ## 📥 Installation
 
-1. Download the latest release from CurseForge linked above.4  
-2. Place the `.jar` file into your Hytale `Mods` folder.  
-3. Enable the mod in your world settings (right-click world → Mods).  
+1. Download the latest version from CurseForge.  
+2. Place the mod file inside your Hytale `Mods` folder.  
+3. Enable the mod in world settings (Right-click world → Mods).  
 
-> Hytale mods must be enabled per world to function, not just installed.5
-
----
-
-## 🛠️ Supported Platforms
-
-- Hytale Early Access  
-- Req: Compatible mod version matching your game version
+> Mods must be enabled per world to function.
 
 ---
 
 ## 📜 Changelog
 
-See [`CHANGELOG.md`](CHANGELOG.md) for detailed release history, what was added, changed, and fixed through each version.6
+Full release history available here:
+
+👉 [`CHANGELOG.md`](CHANGELOG.md)
 
 ---
 
-## 📣 Report Bugs & Share Feedback
+## 🐛 Report Issues
 
-Found an issue in HyOres?
+If you encounter:
 
-- 🪲 Report bugs here: https://github.com/HadiAwali/hyores-report-issues/issues
-- 📝 Feature requests welcome on the same Issues page
+- Generation problems  
+- Missing ores  
+- Crafting bugs  
+- Performance issues  
+- Crashes  
 
-Be sure to include:
-- Hytale version
-- HyOres version
-- Error logs/screenshots if applicable
+Submit a structured report:
+
+👉 https://github.com/HadiAwali/hyores-report-issues/issues
+
+Include:
+- Game version  
+- HyOres version  
+- Biome / Y-level (if generation related)  
+- Logs or screenshots  
 
 ---
 
-## 📡 Links & Community
+## 🌐 Official Links
 
-**CurseForge Mod Page**  
-https://www.curseforge.com/hytale/mods/hyores
+<p align="center">
+  <a href="https://www.curseforge.com/hytale/mods/hyores">
+    <img src="https://img.shields.io/badge/HyOres-CurseForge-orange?style=for-the-badge&logo=curseforge&logoColor=white" />
+  </a>
+  <a href="https://github.com/HadiAwali/hyores-hytale">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.curseforge.com/members/hadiawali/projects">
+    <img src="https://img.shields.io/badge/Creator-Profile-blue?style=for-the-badge" />
+  </a>
+  <a href="https://x.com/hadiawali_">
+    <img src="https://img.shields.io/badge/Twitter-X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://hadiawali.github.io/website/">
+    <img src="https://img.shields.io/badge/Website-Portfolio-4caf50?style=for-the-badge" />
+  </a>
+</p>
 
-**Creator’s Social**
-- Twitter: https://x.com/hadiawali_
-- Patreon: https://www.patreon.com/hadi_awali?utm_campaign=creatorshare_creator
-- Website: https://hadiawali.github.io/website/
+---
 
-**CurseForge Profile**
-https://www.curseforge.com/members/hadiawali/projects
+# ❤️ Support HyOres Development
+
+HyOres is independently developed.
+
+If you want to support continued updates, new ore tiers, alloy expansions, and long-term improvements:
+
+<p align="center">
+  <a href="https://www.patreon.com/hadi_awali?utm_campaign=creatorshare_creator">
+    <img src="https://img.shields.io/badge/Become-a-Patron-ff424d?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
+</p>
+
+Your support directly helps fund:
+
+- Development time  
+- Asset creation  
+- Performance optimization  
+- Future expansion systems  
 
 ---
 
@@ -77,65 +126,13 @@ All Rights Reserved
 
 ---
 
----
+## ⭐ Support the Project
 
-# ❤️ Support HyOres
+If you enjoy HyOres:
 
-If you enjoy HyOres and want to support its development:
+- ⭐ Star the repository  
+- 🐛 Submit detailed bug reports  
+- 🔁 Share the mod  
+- 💖 Support via Patreon  
 
-## ☕ Become a Patron
-
-Support ongoing updates, new ores, alloy systems, and future expansions:
-
-👉 **Patreon:**  
-https://www.patreon.com/hadi_awali?utm_campaign=creatorshare_creator
-
-Your support helps fund development time, improvements, and long-term updates.
-
----
-
-# 🌐 Official Links
-
-## 🔗 GitHub Repository
-Source Code:  
-https://github.com/HadiAwali/hyores-hytale
-
-Issues & Bug Reports:  
-https://github.com/HadiAwali/hyores-report-issues/issues
-
----
-
-## 📦 CurseForge
-
-Mod Page:  
-https://www.curseforge.com/hytale/mods/hyores
-
-Creator Profile:  
-https://www.curseforge.com/members/hadiawali/projects
-
----
-
-## 📡 Social Media
-
-Twitter (X):  
-https://x.com/hadiawali_
-
----
-
-## 🌍 Website
-
-Official Website:  
-https://hadiawali.github.io/website/
-
----
-
-# ⭐ Support the Project
-
-If you like HyOres:
-
-- ⭐ Star the GitHub repository
-- 🐛 Report bugs with detailed information
-- 🔁 Share the mod on CurseForge
-- 💖 Support on Patreon
-
-Thank you for supporting HyOres development.
+HyOres continues evolving with community feedback.
