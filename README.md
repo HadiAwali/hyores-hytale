@@ -1,75 +1,85 @@
-# 🐛 Bug Report
+# 🐛 HyOres – Bug Report
 
 ## 📌 Title
-**Short clear title describing the bug**
-(e.g., “Crash when opening inventory with pet summoned”)
+Short and clear description of the issue  
+Example: "Copper Ore does not generate in Desert biome"
 
 ---
 
-## 🔍 Description
-**What happened?**  
-A detailed description of the bug in your own words.  
-What exactly went wrong?
+## 📖 Description
+Describe the issue clearly and in detail.
 
-> Example:  
-> When I open my inventory while a pet is summoned, the game instantly crashes to desktop.
-
----
-
-## 🧪 Steps to Reproduce
-**Exact steps to reproduce the bug**  
-Write them as clearly and sequentially as possible so anyone can follow:
-
-1. Go to …
-2. Summon a pet …
-3. Open Inventory …
-4. Crash happens
+What is happening?  
+When did it start?  
+Does it affect gameplay, crafting, generation, or performance?
 
 ---
 
-## 📱 Expected Behavior
-**What you expected to happen**  
-Describe how the game should behave instead of crashing.
+## 🔁 Steps to Reproduce
 
-> Example:  
-> The inventory should open normally without crashing.
+Provide exact steps so the issue can be reproduced:
 
----
+1. Create or load a world
+2. Go to biome / zone:
+3. Mine at Y-level:
+4. Observe the issue
 
-## 💥 Actual Behavior
-**What actually happened**  
-This describes the real behavior seen.
+If it involves crafting:
 
-> Example:  
-> The game crashes and the error message “Out of memory” appears.
-
----
-
-## 🧩 Reproduction Frequency
-**How often does it happen?**
-
-- [ ] Always
-- [ ] Sometimes
-- [ ] Rarely
-
-Explain if it’s inconsistent.
+1. Open crafting table
+2. Use recipe:
+3. Result:
 
 ---
 
-## 🖥️ Environment
-Provide context about your setup:
+## ✅ Expected Behavior
 
-**Game / Mod Versions:**
+Explain what should happen.
+
+Example:
+> Copper Ore should generate between Y 40–60 in Desert biome.
+
+---
+
+## ❌ Actual Behavior
+
+Explain what actually happens.
+
+Example:
+> No Copper Ore spawns at any Y-level.
+
+---
+
+## 🌍 World Generation Details (If Related)
+
+- World type:
+- Seed (if important):
+- Biome / Zone:
+- Y-level:
+- New world or existing world:
+
+---
+
+## 🔧 Mod & Game Environment
+
+**Game Version:**
 - Hytale version:
-- Mod name & version: Hyores (link: https://www.curseforge.com/hytale/mods/hyores)
-- Other installed mods (if applicable):
 
-**Platform:**
-- Windows / Mac / Linux / Other:
-- GPU:
-- RAM:
+**HyOres Version:**
+- e.g., v2.0.0
+
+**Other Mods Installed:**
+- List them here
+- Or write "None"
+
+**Config Modified?**
+- [ ] Yes
+- [ ] No
+
+If yes, attach your config file.
 
 ---
 
-## 📊 Logs, Errors & Screenshots
-Paste any error logs, crash dumps, console output or screenshots here.
+## 📊 Logs / Error Messages
+
+Paste console logs or crash reports here:
