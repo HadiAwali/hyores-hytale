@@ -17,15 +17,15 @@ Dynamic Ore Generation • Terrain Variants • Alloy Progression • JSON-Drive
 
 ## 📌 Overview
 
-**HyOres** expands underground gameplay in Hytale with a scalable, configurable ore ecosystem.
+**HyOres** expands underground gameplay in Hytale with a scalable and configurable ore ecosystem.
 
 ### Features
 
-- 🌍 Natural biome-based ore spawning
-- 🪨 Terrain-specific ore variants
-- 🔩 Progressive alloy crafting system
-- ⚙️ Deterministic JSON-based generation engine
-- 🧪 Performance-aware world integration
+- 🌍 Natural biome-based ore spawning  
+- 🪨 Terrain-specific ore variants  
+- 🔩 Progressive alloy crafting system  
+- ⚙️ Deterministic JSON-based generation engine  
+- 🧪 Performance-aware world integration  
 
 Built for balance, scalability, and long-term expansion.
 
@@ -33,17 +33,17 @@ Built for balance, scalability, and long-term expansion.
 
 ## 📥 Installation
 
-1. Download the latest `.jar` from CurseForge.
-2. Drop the `.jar` file into your **Hytale Mods folder**.
+1. Download the latest `.jar` from CurseForge.  
+2. Drop the `.jar` file into your **Hytale Mods folder**.  
 3. Launch Hytale and enable the mod in your world settings.
 
-> Mods must be enabled per world to function properly.
+> Mods must be enabled per world to function correctly.
 
 ---
 
 ## 📜 Changelog
 
-Full release history available here:
+Full release history is available here:
 
 👉 [`CHANGELOG.md`](CHANGELOG.md)
 
@@ -55,7 +55,12 @@ If you encounter generation issues, missing ores, crafting bugs, performance pro
 
 👉 [GitHub Issues](https://github.com/HadiAwali/hyores-report-issues/issues)
 
-Please include your Hytale version, HyOres version, biome / Y-level (if related), and any logs or screenshots.
+Please include:
+
+- Hytale version  
+- HyOres version  
+- Biome / Y-level (if related)  
+- Logs or screenshots  
 
 ---
 
@@ -67,7 +72,12 @@ HyOres is independently developed. Support ongoing updates, new ore tiers, alloy
   [![Become a Patron](https://img.shields.io/badge/Become_a_Patron-ff424d?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/hadi_awali)
 </p>
 
-Your support helps fund development time, asset creation, optimization improvements, and future expansion systems.
+Your support helps fund:
+
+- Development time  
+- Asset creation  
+- Optimization improvements  
+- Future expansion systems  
 
 ---
 
@@ -81,7 +91,7 @@ All Rights Reserved
 
 If you enjoy HyOres:
 
-- ⭐ Star the repository
-- 🐛 Submit detailed bug reports
-- 🔁 Share the mod
+- ⭐ Star the repository  
+- 🐛 Submit detailed bug reports  
+- 🔁 Share the mod  
 - 💖 Support via Patreon
