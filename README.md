@@ -1,130 +1,87 @@
-# ⛏️ HyOres
+# ⛏️ HyOres — The Ultimate Ore Expansion for Hytale
 
 [![Report Bug](https://img.shields.io/badge/Report-Bug-red?style=for-the-badge&logo=github)](https://github.com/HadiAwali/hyores-report-issues/issues)
 [![Download on CurseForge](https://img.shields.io/badge/Download-CurseForge-orange?style=for-the-badge)](https://www.curseforge.com/hytale/mods/hyores)
+
+A dynamic ore generation mod expanding underground content, terrain variants, and alloy progression for Hytale players.2
 
 ---
 
 ## 📌 Overview
 
-**HyOres** is a large-scale ore expansion mod for Hytale that introduces:
+HyOres adds to Hytale:
 
-- 🌍 Dynamic world-generated ores  
-- 🧱 Terrain-based ore distribution  
-- 🔩 Alloy crafting progression  
-- ⚙️ JSON-driven deterministic generation system  
-- 📊 Configurable spawn logic  
-
-The mod is designed to expand mining, crafting, and progression systems while remaining performance-friendly and configurable.
+- 🌍 Natural world ore generation
+- 🪨 Unique ore variants by terrain
+- 🔩 Alloy crafting system
+- ⚙️ Configurable JSON-based distribution
+- 🧪 Enhanced ore diversity across biomes3
 
 ---
 
-## 🌍 Features
+## 📥 Installation
 
-### 🪨 Advanced Ore Generation
-- Biome-specific ore spawning  
-- Height-based (Y-level) distribution  
-- Configurable rarity tables  
-- Deterministic generation logic  
+1. Download the latest release from CurseForge linked above.4  
+2. Place the `.jar` file into your Hytale `Mods` folder.  
+3. Enable the mod in your world settings (right-click world → Mods).  
 
-### 🔗 Alloy System
-- Multi-tier alloy crafting
-- Progression-based unlock system
-- Balanced resource scaling
-
-### ⚙️ JSON Configuration Engine
-- Fully configurable ore spawn rates
-- Custom drop tables
-- Modular expansion support
-- Clean runtime generation logic
+> Hytale mods must be enabled per world to function, not just installed.5
 
 ---
 
-## 📦 Installation
+## 🛠️ Supported Platforms
 
-1. Download the latest version from CurseForge:
-   https://www.curseforge.com/hytale/mods/hyores
-
-2. Place the mod file in your Hytale mods folder.
-
-3. Launch the game.
+- Hytale Early Access  
+- Req: Compatible mod version matching your game version
 
 ---
 
-## 🧪 Compatibility
+## 📜 Changelog
 
-- Compatible with latest Hytale version
-- Designed to minimize conflicts
-- Safe to use in new worlds
-- Existing world compatibility may depend on generation changes
+See [`CHANGELOG.md`](CHANGELOG.md) for detailed release history, what was added, changed, and fixed through each version.6
 
 ---
 
-## 🐛 Report Issues
+## 📣 Report Bugs & Share Feedback
 
-If you encounter bugs, generation problems, crashes, or balance issues:
+Found an issue in HyOres?
 
-👉 **Open an Issue here:**  
-https://github.com/HadiAwali/hyores-report-issues/issues
+- 🪲 Report bugs here: https://github.com/HadiAwali/hyores-report-issues/issues
+- 📝 Feature requests welcome on the same Issues page
 
-When reporting, include:
-- Game version
+Be sure to include:
+- Hytale version
 - HyOres version
-- World type / biome
-- Y-level (if generation related)
-- Logs or screenshots
+- Error logs/screenshots if applicable
 
 ---
 
-## 💡 Feature Requests
+## 📡 Links & Community
 
-Want new ores, alloys, or mechanics?
+**CurseForge Mod Page**  
+https://www.curseforge.com/hytale/mods/hyores
 
-Open a feature request:
-https://github.com/HadiAwali/hyores-report-issues/issues
+**Creator’s Social**
+- Twitter: https://x.com/hadiawali_
+- Patreon: https://www.patreon.com/hadi_awali?utm_campaign=creatorshare_creator
+- Website: https://hadiawali.github.io/website/
 
----
-
-## 📊 Development Focus
-
-HyOres focuses on:
-
-- Scalable ore ecosystems  
-- Balanced progression  
-- Performance stability  
-- Clean modular JSON structure  
-- Expandable architecture  
+**CurseForge Profile**
+https://www.curseforge.com/members/hadiawali/projects
 
 ---
 
-## 🔮 Roadmap (Example)
+## 📦 License
 
-- [ ] New biome-exclusive ores  
-- [ ] Rare deep-core materials  
-- [ ] Advanced alloy tiers  
-- [ ] Config UI improvements  
-- [ ] Multiplayer optimization  
+All Rights Reserved
 
 ---
 
-## 📜 License
+## ❤️ Support
 
-Specify your license here (MIT / Custom / All Rights Reserved)
+If you enjoy this mod:
+✔ Star the repo  
+✔ Report bugs with detailed info  
+✔ Follow on social platforms
 
----
-
-## 👤 Author
-
-Developed by **Hadi Awali**
-
----
-
-## ⭐ Support
-
-If you enjoy the mod:
-
-- Star the repository  
-- Share on CurseForge  
-- Report issues to help improve stability  
-
----
+Thank you for using HyOres!
