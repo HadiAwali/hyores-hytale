@@ -7,11 +7,17 @@
 [![Report a Bug](https://img.shields.io/badge/Report-Bug-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HadiAwali/hyores-report-issues/issues)
 
 [![Support on Patreon](https://img.shields.io/badge/Support-Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/hadi_awali)
+
+[![Twitter](https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hadiawali_)
+
+[![Website](https://img.shields.io/badge/Website-Portfolio-4CAF50?style=for-the-badge)](https://hadiawali.github.io/website/)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-HyOres-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HadiAwali/hyores-hytale)
   
 </p>
 
 <p align="center">
-Dynamic Ore Generation • Terrain Variants • Alloy Progression • JSON‑Driven Ecosystem
+Dynamic Ore Generation • Terrain Variants • Alloy Progression • JSON-Driven Ecosystem
 </p>
 
 ---
@@ -22,13 +28,13 @@ Dynamic Ore Generation • Terrain Variants • Alloy Progression • JSON‑Dri
 
 ### Features
 
-- 🌍 Natural biome‑based ore spawning  
-- 🪨 Terrain‑specific ore variants  
+- 🌍 Natural biome-based ore spawning  
+- 🪨 Terrain-specific ore variants  
 - 🔩 Progressive alloy crafting system  
-- ⚙️ Deterministic JSON‑based generation engine  
-- 🧪 Performance‑aware world integration
+- ⚙️ Deterministic JSON-based generation engine  
+- 🧪 Performance-aware world integration  
 
-Built for balance, scalability, and long‑term expansion.
+Built for balance, scalability, and long-term expansion.
 
 ---
 
@@ -53,20 +59,21 @@ Full release history available here:
 ## 🐛 Report Issues
 
 If you encounter:
+
 - Generation issues  
 - Missing ores  
 - Crafting bugs  
 - Performance problems  
 - Crashes  
 
-Submit a report:
+Submit a structured report:
 
-👉 https://github.com/HadiAwali/hyores-report-issues/issues
+👉 [GitHub Issues](https://github.com/HadiAwali/hyores-report-issues/issues)
 
 Include:
 - Hytale version  
 - HyOres version  
-- Biome / Y‑level (if related)  
+- Biome / Y-level (if related)  
 - Logs or screenshots
 
 ---
@@ -75,15 +82,15 @@ Include:
 
 <p align="center">
   
-[![CurseForge Mod Page](https://img.shields.io/badge/HyOres‑CurseForge‑orange?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/hytale/mods/hyores)
+[![CurseForge Mod Page](https://img.shields.io/badge/HyOres-CurseForge-orange?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/hytale/mods/hyores)
 
-[![Creator Profile](https://img.shields.io/badge/Creator‑Profile‑blue?style=for-the-badge)](https://www.curseforge.com/members/hadiawali/projects)
+[![Creator Profile](https://img.shields.io/badge/Creator-Profile-blue?style=for-the-badge)](https://www.curseforge.com/members/hadiawali/projects)
 
-[![Twitter (X)](https://img.shields.io/badge/Twitter‑X‑000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hadiawali_)
+[![Twitter (X)](https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hadiawali_)
 
-[![Website Portfolio](https://img.shields.io/badge/Website‑Portfolio‑4caf50?style=for-the-badge)](https://hadiawali.github.io/website/)
+[![Website Portfolio](https://img.shields.io/badge/Website-Portfolio-4CAF50?style=for-the-badge)](https://hadiawali.github.io/website/)
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub‑Repository‑181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HadiAwali/hyores-hytale)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-HyOres-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HadiAwali/hyores-hytale)
   
 </p>
 
@@ -93,13 +100,16 @@ Include:
 
 HyOres is independently developed.
 
+Support ongoing updates, new ore tiers, alloy systems, and long-term improvements:
+
 <p align="center">
   
-[![Become a Patron](https://img.shields.io/badge/Become‑a‑Patron‑ff424d?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/hadi_awali)
+[![Become a Patron](https://img.shields.io/badge/Become-a-Patron-ff424d?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/hadi_awali)
   
 </p>
 
 Your support helps fund:
+
 - Development time  
 - Asset creation  
 - Optimization improvements  
