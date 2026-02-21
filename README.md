@@ -1,14 +1,14 @@
 # ⛏️ HyOres — The Ultimate Ore Expansion for Hytale
 
 <p align="center">
-  <a href="https://www.curseforge.com/hytale/mods/hyores" target="_blank">
-    <img src="https://img.shields.io/badge/Download-CurseForge-orange?style=for-the-badge&logo=curseforge&logoColor=white" />
+  <a href="https://www.curseforge.com/hytale/mods/hyores" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Download-CurseForge-orange?style=for-the-badge&logo=curseforge&logoColor=white" alt="Download on CurseForge" />
   </a>
-  <a href="https://github.com/HadiAwali/hyores-report-issues/issues" target="_blank">
-    <img src="https://img.shields.io/badge/Report-Bug-red?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/HadiAwali/hyores-report-issues/issues" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Report-Bug-red?style=for-the-badge&logo=github&logoColor=white" alt="Report Bug" />
   </a>
-  <a href="https://www.patreon.com/hadi_awali?utm_campaign=creatorshare_creator" target="_blank">
-    <img src="https://img.shields.io/badge/Support-Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white" />
+  <a href="https://www.patreon.com/hadi_awali" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Support-Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@ Dynamic Ore Generation • Terrain Variants • Alloy Progression • JSON-Drive
 
 ## 📌 Overview
 
-**HyOres** expands underground gameplay in Hytale with a scalable and configurable ore ecosystem.
+**HyOres** expands underground gameplay in Hytale with a scalable, configurable ore ecosystem.
 
 ### Features
 
@@ -77,20 +77,20 @@ Include:
 ## 🌐 Official Links
 
 <p align="center">
-  <a href="https://www.curseforge.com/hytale/mods/hyores" target="_blank">
-    <img src="https://img.shields.io/badge/HyOres-CurseForge-orange?style=for-the-badge&logo=curseforge&logoColor=white" />
+  <a href="https://www.curseforge.com/hytale/mods/hyores" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/HyOres-CurseForge-orange?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge Mod Page" />
   </a>
-  <a href="https://www.curseforge.com/members/hadiawali/projects" target="_blank">
-    <img src="https://img.shields.io/badge/Creator-Profile-blue?style=for-the-badge" />
+  <a href="https://www.curseforge.com/members/hadiawali/projects" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Creator-Profile-blue?style=for-the-badge" alt="CurseForge Profile" />
   </a>
-  <a href="https://x.com/hadiawali_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/hadiawali_" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Twitter-X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
   </a>
-  <a href="https://hadiawali.github.io/website/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-4caf50?style=for-the-badge" />
+  <a href="https://hadiawali.github.io/website/" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Website-Portfolio-4caf50?style=for-the-badge" alt="Official Website" />
   </a>
-  <a href="https://github.com/HadiAwali/hyores-hytale" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/HadiAwali/hyores-hytale" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
 </p>
 
@@ -100,15 +100,16 @@ Include:
 
 HyOres is independently developed.
 
-If you want to support continued updates, new ore tiers, alloy systems, and long-term improvements:
+Support ongoing updates, new ore tiers, alloy systems, and long-term improvements:
 
 <p align="center">
-  <a href="https://www.patreon.com/hadi_awali?utm_campaign=creatorshare_creator" target="_blank">
-    <img src="https://img.shields.io/badge/Become-a-Patron-ff424d?style=for-the-badge&logo=patreon&logoColor=white" />
+  <a href="https://www.patreon.com/hadi_awali" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Become-a-Patron-ff424d?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" />
   </a>
 </p>
 
 Your support helps fund:
+
 - Development time  
 - Asset creation  
 - Optimization improvements  
