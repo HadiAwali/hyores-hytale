@@ -1,85 +1,130 @@
-# 🐛 HyOres – Bug Report
+# ⛏️ HyOres
 
-## 📌 Title
-Short and clear description of the issue  
-Example: "Copper Ore does not generate in Desert biome"
-
----
-
-## 📖 Description
-Describe the issue clearly and in detail.
-
-What is happening?  
-When did it start?  
-Does it affect gameplay, crafting, generation, or performance?
+[![Report Bug](https://img.shields.io/badge/Report-Bug-red?style=for-the-badge&logo=github)](https://github.com/HadiAwali/hyores-report-issues/issues)
+[![Download on CurseForge](https://img.shields.io/badge/Download-CurseForge-orange?style=for-the-badge)](https://www.curseforge.com/hytale/mods/hyores)
 
 ---
 
-## 🔁 Steps to Reproduce
+## 📌 Overview
 
-Provide exact steps so the issue can be reproduced:
+**HyOres** is a large-scale ore expansion mod for Hytale that introduces:
 
-1. Create or load a world
-2. Go to biome / zone:
-3. Mine at Y-level:
-4. Observe the issue
+- 🌍 Dynamic world-generated ores  
+- 🧱 Terrain-based ore distribution  
+- 🔩 Alloy crafting progression  
+- ⚙️ JSON-driven deterministic generation system  
+- 📊 Configurable spawn logic  
 
-If it involves crafting:
-
-1. Open crafting table
-2. Use recipe:
-3. Result:
+The mod is designed to expand mining, crafting, and progression systems while remaining performance-friendly and configurable.
 
 ---
 
-## ✅ Expected Behavior
+## 🌍 Features
 
-Explain what should happen.
+### 🪨 Advanced Ore Generation
+- Biome-specific ore spawning  
+- Height-based (Y-level) distribution  
+- Configurable rarity tables  
+- Deterministic generation logic  
 
-Example:
-> Copper Ore should generate between Y 40–60 in Desert biome.
+### 🔗 Alloy System
+- Multi-tier alloy crafting
+- Progression-based unlock system
+- Balanced resource scaling
 
----
-
-## ❌ Actual Behavior
-
-Explain what actually happens.
-
-Example:
-> No Copper Ore spawns at any Y-level.
-
----
-
-## 🌍 World Generation Details (If Related)
-
-- World type:
-- Seed (if important):
-- Biome / Zone:
-- Y-level:
-- New world or existing world:
+### ⚙️ JSON Configuration Engine
+- Fully configurable ore spawn rates
+- Custom drop tables
+- Modular expansion support
+- Clean runtime generation logic
 
 ---
 
-## 🔧 Mod & Game Environment
+## 📦 Installation
 
-**Game Version:**
-- Hytale version:
+1. Download the latest version from CurseForge:
+   https://www.curseforge.com/hytale/mods/hyores
 
-**HyOres Version:**
-- e.g., v2.0.0
+2. Place the mod file in your Hytale mods folder.
 
-**Other Mods Installed:**
-- List them here
-- Or write "None"
-
-**Config Modified?**
-- [ ] Yes
-- [ ] No
-
-If yes, attach your config file.
+3. Launch the game.
 
 ---
 
-## 📊 Logs / Error Messages
+## 🧪 Compatibility
 
-Paste console logs or crash reports here:
+- Compatible with latest Hytale version
+- Designed to minimize conflicts
+- Safe to use in new worlds
+- Existing world compatibility may depend on generation changes
+
+---
+
+## 🐛 Report Issues
+
+If you encounter bugs, generation problems, crashes, or balance issues:
+
+👉 **Open an Issue here:**  
+https://github.com/HadiAwali/hyores-report-issues/issues
+
+When reporting, include:
+- Game version
+- HyOres version
+- World type / biome
+- Y-level (if generation related)
+- Logs or screenshots
+
+---
+
+## 💡 Feature Requests
+
+Want new ores, alloys, or mechanics?
+
+Open a feature request:
+https://github.com/HadiAwali/hyores-report-issues/issues
+
+---
+
+## 📊 Development Focus
+
+HyOres focuses on:
+
+- Scalable ore ecosystems  
+- Balanced progression  
+- Performance stability  
+- Clean modular JSON structure  
+- Expandable architecture  
+
+---
+
+## 🔮 Roadmap (Example)
+
+- [ ] New biome-exclusive ores  
+- [ ] Rare deep-core materials  
+- [ ] Advanced alloy tiers  
+- [ ] Config UI improvements  
+- [ ] Multiplayer optimization  
+
+---
+
+## 📜 License
+
+Specify your license here (MIT / Custom / All Rights Reserved)
+
+---
+
+## 👤 Author
+
+Developed by **Hadi Awali**
+
+---
+
+## ⭐ Support
+
+If you enjoy the mod:
+
+- Star the repository  
+- Share on CurseForge  
+- Report issues to help improve stability  
+
+---
