@@ -7,6 +7,7 @@
   <a href="https://x.com/hadiawali_"><img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://hadiawali.github.io/website/"><img src="https://img.shields.io/badge/Website-Portfolio-4CAF50?style=for-the-badge" alt="Website"/></a>
   <a href="https://github.com/HadiAwali/hyores-hytale"><img src="https://img.shields.io/badge/GitHub-HyOres-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+  [![CurseForge Downloads](https://cf.way2muchnoise.eu/hyores.svg?badge_style=for_the_badge)](https://www.curseforge.com/hytale/mods/hyores)
 </p>
 
 <p align="center">
