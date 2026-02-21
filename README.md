@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://www.curseforge.com/hytale/mods/hyores"><img src="https://img.shields.io/badge/Download-CurseForge-orange?style=for-the-badge&logo=curseforge&logoColor=white" alt="Download on CurseForge"/></a>
+  <a href="https://www.curseforge.com/hytale/mods/hyores"><img src="https://img.shields.io/curseforge/dt/1455190?style=for-the-badge&logo=curseforge&logoColor=white&label=Downloads&color=orange" alt="CurseForge Downloads"/></a>
   <a href="https://github.com/HadiAwali/hyores-report-issues/issues"><img src="https://img.shields.io/badge/Report-Bug-red?style=for-the-badge&logo=github&logoColor=white" alt="Report a Bug"/></a>
   <a href="https://www.patreon.com/hadi_awali"><img src="https://img.shields.io/badge/Support-Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon"/></a>
   <a href="https://x.com/hadiawali_"><img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
