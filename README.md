@@ -7,7 +7,6 @@
   <a href="https://www.patreon.com/hadi_awali"><img src="https://img.shields.io/badge/Support-Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon"/></a>
   <a href="https://x.com/hadiawali_"><img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://hadiawali.github.io/website/"><img src="https://img.shields.io/badge/Website-Portfolio-4CAF50?style=for-the-badge" alt="Website"/></a>
-  <a href="https://github.com/HadiAwali/hyores-hytale"><img src="https://img.shields.io/badge/GitHub-HyOres-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
 </p>
 
 <p align="center">
